@@ -1,4 +1,4 @@
-(() => {
+"use strict";(() => {
 //Select all the Lightroom elements you want to paginate
 var items = $('.lightroom-element');
 //Determine the number of items per page
