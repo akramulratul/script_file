@@ -2,7 +2,7 @@
 //Select all the Lightroom elements you want to paginate
 var items = $('.lightroom-element');
 //Determine the number of items per page
-var itemsPerPage = 3;
+var itemsPerPage = 12;
 //Calculate the number of pages required
 var numberOfPages = Math.ceil(items.length / itemsPerPage);
 //Create a container for the pagination links
